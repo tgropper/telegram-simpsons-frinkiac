@@ -1,0 +1,20 @@
+{
+  "name": "telegram-simpsons-frinkian",
+  "version": "1.0.0",
+  "description": "Frinkian bot for Telegram",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "tgropper",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "extend": "^3.0.0",
+    "guid": "0.0.12",
+    "lodash": "^4.11.1",
+    "node-telegram-bot-api": "^0.21.1",
+    "request-promise": "^3.0.0",
+    "winston": "^2.2.0"
+  }
+}
